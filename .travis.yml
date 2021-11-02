@@ -3,5 +3,7 @@ solution: EZLaborAPI.sln
 
 jobs:
   include:
-    - dotnet: 5.0.402
-      mono: none
+      dotnet: 5.0.402
+      mono: latest
+      script:
+      - dotnet restore
