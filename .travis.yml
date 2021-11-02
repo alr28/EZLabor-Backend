@@ -1,2 +1,7 @@
 language: csharp
 solution: EZLaborAPI.sln
+
+jobs:
+  include:
+    - dotnet: 5
+      mono: none
