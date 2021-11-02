@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\EZLaborAPI.csproj": {}
+    "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\EZLaborAPI.csproj": {
+    "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\EZLaborAPI.csproj",
+        "projectUniqueName": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI.csproj",
         "projectName": "EZLaborAPI",
-        "projectPath": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\EZLaborAPI.csproj",
+        "projectPath": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\obj\\",
+        "outputPath": "D:\\GitHub\\EZLabor-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

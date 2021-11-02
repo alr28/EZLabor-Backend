@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qfpKNxEQEthHdjfztyobwKm/kAX1bQ565fWaVns60XIQ/YQ58Nufw0iMjm+t8OBjfT5aLp2qhgawt95iiJ53uA==",
+  "dgSpecHash": "8n2rshO+VGQr+YHAR9GvHxv23vzwwFnDbefdKcb2on2IL7Ax6FxvHJBcldap1ShUuQZZXGLWhzMVaq6+aWpUnA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI\\EZLaborAPI.csproj",
+  "projectFilePath": "D:\\GitHub\\EZLabor-Backend\\EZLaborAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
